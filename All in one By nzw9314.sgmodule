@@ -108,3 +108,6 @@ QQ音乐 = type=cron,cronexp=55 1 0 * * *,script-path=https://raw.githubusercont
 
 # > qq会员成长值签到 (By @lowking0415)
 qq会员签到 = type=cron,cronexp=0 0 0,1 * * ?,wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js,script-update-interval=0
+
+# > 万达电影
+万达电影 = type=cron,cronexp=0 0 0,1 * * ?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js

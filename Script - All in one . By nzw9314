@@ -168,8 +168,6 @@ mb.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com
 znzj.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/znzj.js,type=http-response,pattern=^https:\/\/app\.xunjiepdf\.com\/api\/v4\/virtualactregister
 # 猫咪翻译(by @superuv)
 mmfy.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/mmfy.js,type=http-response,pattern=http:\/\/miaow\.yiyongcad\.com\/api\/v4\/memprofile
-# 微商助手(by @superuv)
-wszs.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/wszs.js,type=http-response,pattern=https:\/\/api\.lennou\.com\/user\/info
 # gk扫描仪(by @superuv)
 smy.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/smy.js,type=http-response,pattern=^https:\/\/api\.gkocr\.com\/api\/userlogin1.php
 # > Miao Miao
